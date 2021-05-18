@@ -5,7 +5,7 @@ buildscript {
         maven { url 'https://dl.bintray.com/content/aalmiray/kordamp' }
     }
     dependencies {
-        classpath 'org.kordamp:markdown-gradle-plugin:1.0.0'
+        classpath 'org.kordamp.gradle:markdown-gradle-plugin:2.2.0'
 		classpath 'org.kordamp.gradle:clirr-gradle-plugin:0.2.2'
     }
 }
